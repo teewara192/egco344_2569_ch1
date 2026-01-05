@@ -1,0 +1,10 @@
+[
+  { "id": "E001", "name": "Alice Tan", "department": "Computer Engineering", "gpa": 3.85 },
+  { "id": "E002", "name": "Boris Kiat", "department": "Electrical Engineering", "gpa": 3.42 },
+  { "id": "E003", "name": "Chaiya Phan", "department": "Mechanical Engineering", "gpa": 3.10 },
+  { "id": "E004", "name": "Dara Suri", "department": "Civil Engineering", "gpa": 3.56 },
+  { "id": "E005", "name": "Ekamol Jit", "department": "Computer Engineering", "gpa": 3.77 },
+  { "id": "E006", "name": "Fah Pon", "department": "Electrical Engineering", "gpa": 2.98 },
+  { "id": "E007", "name": "Gawin Nop", "department": "Mechanical Engineering", "gpa": 3.21 },
+  { "id": "E008", "name": "Hana Lee", "department": "Civil Engineering", "gpa": 3.92 }
+]
