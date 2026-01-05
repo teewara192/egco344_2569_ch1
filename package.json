@@ -1,0 +1,12 @@
+{
+  "name": "egco344-students-api",
+  "version": "1.0.0",
+  "description": "Simple Node.js API serving mocked student GPAs",
+  "main": "egco344/app.js",
+  "scripts": {
+    "start": "node egco344/app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
