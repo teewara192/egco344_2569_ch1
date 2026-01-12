@@ -1,6 +1,6 @@
 # Students GPA API
-# This is me Teewara
-# second me
+## This is me Teewara
+## second me
 
 Simple Node.js Express API that serves mocked student GPA data for the Faculty of Engineering.
 
